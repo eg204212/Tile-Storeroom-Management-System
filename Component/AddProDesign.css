@@ -1,0 +1,82 @@
+.Classa_1 {
+    
+    inline-size: 100%; /* Use width directly */
+    block-size: 730px;
+    background-image: url('./Images/b2.jpg'); 
+    background-position: center;
+    background-size: 100%;
+}
+.content_001{
+    display: flex;
+    align-items: center;
+}
+.Class2pp_1{
+    background-color: white;
+    inline-size: 40%; /* Use width directly */
+    block-size: 450px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-start-start-radius: 20px; /* Adjust the border radius for the top-left corner */
+    border-end-start-radius: 20px; /* Adjust the border radius for the bottom-left corner */
+}
+.class2pp_2 {
+    background-image: url('./Images/tilestore.jpg');
+    background-size: 150%;
+    inline-size: 30%; /* Use width directly */
+    block-size: 450px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    margin-inline-start: -220px; /* Adjust the margin to change horizontal position */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-start-end-radius: 20px; /* Adjust the border radius for the top-left corner */
+    border-end-end-radius: 20px;
+    background-position: center;;
+}
+.Text3a{
+    color: blue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 0px;
+    padding-block-start: 50px;
+}
+.Text_reg{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: -100px;
+    padding-block-start: 10px;
+}
+.Box1_p{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 130px;
+    margin-block-start: 10px;
+}
+.Btn_regp{
+    background-color:lightblue ;
+    inline-size: 50%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 100px;
+    margin-block-start: 20px; 
+    cursor: pointer;
+}
+.Btnp_img{
+    background-color:black ;
+    color:white;
+    inline-size: 50%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 100px;
+    margin-block-start: 80px; 
+}

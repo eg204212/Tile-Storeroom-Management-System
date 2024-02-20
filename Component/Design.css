@@ -1,0 +1,526 @@
+.Class1 {
+    
+    inline-size: 100%; /* Use width directly */
+    block-size: 730px;
+    background-image: url('./Images/Backg1.jpg'); 
+}
+.Class1_1 {
+    
+    inline-size: 100%; /* Use width directly */
+    block-size: 730px;
+    background-image: url('./Images/Backg1.jpg'); 
+}
+.Class2{
+    background-color: rgb(71, 136, 226);
+    inline-size: 35%; /* Use width directly */
+    block-size: 500px;
+    border-radius: 30px;
+    margin-inline-start: 800px; /*left margin*/
+    margin-block-start: -500px;   /*margin from top*/
+    background-image:url('./Images/Backg2.jpg') ;
+}
+.Class_prf{
+    background-color: rgb(71, 136, 226);
+    inline-size: 35%; /* Use width directly */
+    block-size: 550px;
+    border-radius: 30px;
+    margin-inline-start: 800px; /*left margin*/
+    margin-block-start: -55px;   /*margin from top*/
+    background-image:url('./Images/Backg2.jpg') ;
+}
+.Class_pro{
+    background-color: white;
+    inline-size: 98.5%; /* Use width directly */
+    block-size: 500px;
+    margin-inline-start: 10px; /*left margin*/
+    margin-block-start: 20px;   /*margin from top*/
+    background-position: center;
+}
+.Class_pro1{
+    background-color: white;
+    inline-size: 98.5%; /* Use width directly */
+    block-size: 500px;
+    margin-inline-start: 10px; /*left margin*/
+    margin-block-start: 60px;   /*margin from top*/
+ 
+}
+.Class2s{
+    background-color: rgb(71, 136, 226);
+    inline-size: 35%; /* Use width directly */
+    block-size: 500px;
+    border-radius: 30px;
+    margin-inline-start: 800px; /*left margin*/
+    margin-block-start: -350px;   /*margin from top*/
+    background-image:url('./Images/Backg2.jpg') ;
+}
+
+.Class2_11{
+    background-image:url('./Images/Backg2.jpg') ;
+    inline-size: 50%; /* Use width directly */
+    block-size: 620px;
+    border-radius: 30px;
+    margin: 100px auto;   /*margin from top*/
+}
+.Text1{
+    font-size: 50px;
+    color: darkgoldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-inline-start: 180px;
+    padding-block-start: 20px; 
+}
+.Photo1{
+    inline-size: 14%; 
+    block-size: 170px;
+    margin-inline-start: 1220px;
+    margin-block-start: -20px; 
+    background-image: url('./Images/Tile1.jpg');
+}
+
+.Logo{
+    inline-size: 14%; 
+    block-size: 170px;
+    margin-inline-start: 200px;
+    margin-block-start: 40px; 
+    background-image: url('./Images/logo1.png');
+}
+.Logos{
+    inline-size: 15%; 
+    block-size: 220px;
+    margin-inline-start: 180px;
+    margin-block-start: 250px; 
+    background-image: url('./Images/stf.jpg');
+    background-size: 100%;
+}
+
+.Text2{
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: deepskyblue;
+    margin-inline-start: 60px;
+    margin-block-start: 80px;
+}
+.Text2w{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: deepskyblue;
+    margin-inline-start: 60px;
+    margin-block-start: -20px;
+}
+.Text2w2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: deepskyblue;
+    margin-inline-start: 100px;
+    margin-block-start: 20px;
+}
+.Text2w2 + .Text2w2 {
+    margin-inline-start: 100px; 
+}
+.Text3_11{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 250px;
+    padding-block-start: 20px;
+}
+.Text3c{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 180px;
+    padding-block-start: 50px;
+}
+.Text3c1{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 110px;
+    padding-block-start: 50px;
+}
+.Text3__{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 120px;
+    padding-block-start: 20px;
+}
+.Text3S{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 100PX;
+    padding-block-start: 20px;
+}
+.Text_regg{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 20px;
+    padding-block-start: 30px;
+}
+.Text_reg_1{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 40px;
+    padding-block-start: 50px;
+}
+.Text_reg_11{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 2px;
+    padding-block-start: 30px;
+}
+.Text_reg_12{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 40px;
+    padding-block-start: 25px;
+}
+.Text_reg_13{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 40px;
+    padding-block-start: 25px;
+}
+.Text1_prf{
+    font-size: 50px;
+    color: darkgoldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 155px;
+    padding-block-start: 100px;
+}
+/*.Text1_pro{
+    font-size: 40px;
+    color: darkgoldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 50px;
+    padding-block-start: 10px;
+}
+*/
+.Text1_office{
+    font-size: 30px;
+    color: darkgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 40px;
+    padding-block-start: 10px;
+}
+
+.Box1{
+    block-size: 25px;
+    margin-inline-start: 140px;
+    inline-size: 50%;
+    margin-block-start: 25px;
+}
+.Box2{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 140px;
+    margin-block-start: 30px;
+}
+
+.Box1_1{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 100px;
+    margin-block-start: 35px;
+}
+.Box1_11{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 90px;
+    margin-block-start: 35px;
+}
+.Box1_12{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 140px;
+    margin-block-start: 35px;
+}
+.Box1_p{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 130px;
+    margin-block-start: 35px;
+}
+.Box2_p{
+    block-size: 50px;
+    inline-size: 50%;
+    margin-inline-start: 70px;
+    margin-block-start: 35px;
+}
+.Box3_p{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 190px;
+    margin-block-start: 35px;
+}
+
+
+.Box1_r{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 160px;
+    margin-block-start: 50px;
+}
+.Box2_r{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 145px;
+    margin-block-start: 40px;
+}
+.Box3_r{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 120px;
+    margin-block-start: 45px;
+}
+.Box4_r{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 45px;
+    margin-block-start: 45px;
+}
+
+.Box1_prf{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 45px;
+    margin-block-start: 50px;
+}
+.Box2_prf{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 85px;
+    margin-block-start: 15px;
+}
+.Box3_prf{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 85px;
+    margin-block-start: 15px;
+}
+.Box2_1{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 105px;
+    margin-block-start: 35px;
+}
+.Box3{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 90px;
+    margin-block-start: 30px;
+}
+.Box4{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 148px;
+    margin-block-start: 30px;
+}
+.Box4_1{
+    block-size: 25px;
+    inline-size: 30%;
+    margin-inline-start: 76px;
+    margin-block-start: 30px;
+}
+.Box5{
+    block-size: 25px;
+    inline-size: 30%;
+    margin-inline-start: 105px;
+    margin-block-start: 30px;
+}
+.Box6{
+    block-size: 25px;
+    inline-size: 30%;
+    margin-inline-start: 113px;
+    margin-block-start: 30px;
+}
+
+.Box_search1{
+    block-size: 25px;
+    background-color: bisque;
+    inline-size: 20%;
+    margin-inline-start: 50px;
+    margin-block-start: 30px;
+}
+.Btn_1{
+    background-color: gray;
+    inline-size: 25%; 
+    block-size: 20px;
+    border-radius: 10px;
+    margin-inline-start: 200px;
+    margin-block-start: 40px; 
+}
+.Btnn_1{
+    background-color: lightblue;
+    inline-size: 25%; 
+    font-weight: bold;
+    block-size: 35px;
+    border-radius: 10px;
+    margin-inline-start: 200px;
+    margin-block-start: 55px; 
+}
+.Btn_2{
+    background-color: transparent;
+    inline-size: 30%; 
+    block-size: 20px;
+    border-radius: 10px;
+    margin-inline-start: 185px;
+    margin-block-start: 30px; 
+}
+.Btn_02{
+    background-color: transparent;
+    inline-size: 30%; 
+    block-size: 20px;
+    border-radius: 10px;
+    margin-inline-start: 185px;
+    margin-block-start: 30px; 
+}
+.Btn_reg{
+    background-color:lightblue ;
+    inline-size: 15%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 520px;
+    margin-block-start: 20px; 
+}
+.Btn_reg11{
+    background-color:lightblue ;
+    inline-size: 15%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 520px;
+    margin-block-start: 30px; 
+}
+.Btn_img{
+    background-color:black ;
+    color:white;
+    inline-size: 20%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 40px;
+    margin-block-start: 80px; 
+}
+.Btn_r{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 20%; 
+    block-size: 40px;
+    border-radius: 10px;
+    margin-inline-start: 300px;
+    margin-block-start: 120px; 
+}
+.Btn1_prf{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 50%; 
+    block-size: 40px;
+    border-radius: 20px;
+    margin-inline-start: 30px;
+    margin-block-start: 40px; 
+}
+.Btnn1_prf{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 50%; 
+    block-size: 40px;
+    border-radius: 20px;
+    margin-inline-start: 30px;
+    margin-block-start: 40px; 
+}
+.Btn1_prf1{
+    background-color: transparent ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 30%; 
+    block-size: 40px;
+    border-radius: 10px;
+    margin-inline-start: 30px;
+    margin-block-start: 30px; 
+}
+
+.ButtonContainer1 {
+    display: flex;
+    justify-content: space-around;
+  }
+.container1{
+    text-align: center; 
+}
+.container_c {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Text1_pro {
+    font-size: 40px;
+    color: darkgoldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+  }
+  
+  .Btn_office11 {
+    background-color: chocolate;
+    color: black;
+    font-weight: bolder;
+    inline-size: 10%; 
+    block-size: 35px;
+    border-radius: 80px;
+    margin-inline-start: 650px; /* Adjust the margin for spacing */
+    margin-block-start: -31px;
+  }
+  .Btn_order{
+   background-image: url('./Images/orderbtn.jpg');
+   inline-size: 6%;
+   block-size: 90px;
+   background-size: 115%;
+   border-radius: 50px;
+   margin-inline-start: 1250px;
+   margin-block-start: -90px; 
+   background-position: center;
+}
+.Btn_office1{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 10%; 
+    block-size: 35px;
+    border-radius: 10px;
+    margin-inline-start: 400px;
+    margin-block-start: -33px; 
+}
+.Box_search{
+    block-size: 25px;
+    background-color:white;
+    inline-size: 20%;
+    margin-inline-start: 5px;
+    margin-block-start: 0px;
+}
+
+.BtnE{
+    background-image: url('./Images/edit.png');
+    inline-size: 50%; 
+    block-size: 25px;
+    margin-inline-start: 0px;
+    margin-block-start: 15px; 
+    background-size: 110%;
+}
+.BtnD{
+    background-image: url('./Images/delete.png');
+    inline-size: 40%; 
+    block-size: 30px;
+    margin-inline-start: 0px;
+    margin-block-start: 15px; 
+    background-size: 100%;
+}
+.product-table {
+    border-spacing: 80px; 
+    background-position: center;
+  }
+  
+  .product-table th, .product-table td {
+    text-align: center; 
+
+  }

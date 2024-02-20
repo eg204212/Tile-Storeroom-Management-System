@@ -1,0 +1,73 @@
+
+.Classs01 { 
+    inline-size: 92%; /* Use width directly */
+    block-size: 610px;
+    background-image: url('./Images/b2.jpg'); 
+    background-position: center;
+    margin-block-start: 0px;
+    background-size: 100%;
+    padding: 60px;
+}
+.Class_prff{
+    background-color:white;
+    inline-size: 45%; /* Use width directly */
+    block-size: 560px;
+    border-radius: 30px;
+    margin-inline-start: 800px; /*left margin*/
+    margin-block-start: 20px;   /*margin from top*/
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+   
+}
+.Text3p1{
+    font-size: 50px;
+    margin-block-start: 100px;  
+    margin-inline-start: 150px;
+    
+}
+.Box1_prf{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 95px;
+    margin-block-start: 15px;
+}
+.Box2_prf{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 135px;
+    margin-block-start: 15px;
+}
+.Box3_prf{
+    block-size: 25px;
+    inline-size: 45%;
+    margin-inline-start: 135px;
+    margin-block-start: 15px;
+}
+.Text_regp{
+    font-size: 20px;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 10px;
+    padding-block-start: 10px;
+}
+.Btn1_prf{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 50%; 
+    block-size: 40px;
+    border-radius: 20px;
+    margin-inline-start: 30px;
+    margin-block-start: 20px; 
+    cursor: pointer;
+    
+    
+}
+.Logoprf{
+    inline-size: 20%; 
+    block-size: 103px;
+    margin-inline-start: 250px;
+    margin-block-start: 0px; 
+    background-image: url('./Images/prf1.png');
+    background-size: 100%;
+}

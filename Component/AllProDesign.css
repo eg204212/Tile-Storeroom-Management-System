@@ -1,0 +1,122 @@
+.Classp1 {
+    background-size: cover;
+    inline-size: 100%; /* Use width directly */
+    block-size: 720px;
+}
+.container_c {
+    display: flex;
+    align-items: center;
+  }
+  /* ProductTable.css */
+.product-table {
+    inline-size: 100%;
+    border-collapse: collapse;
+    margin-block-start: 20px;
+  }
+  
+  .product-table th, .product-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .product-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .product-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .product-table tr:nth-child(odd) {
+    background-color: #fff;
+  }
+  
+  .BtnE, .BtnD {
+    background: none;
+    border: none;
+    cursor: pointer;
+    inline-size: 20px;
+    block-size: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 5px;
+  }
+  .BtnE {
+    background-image: url('./Images/edit.png'); /* Add the path to your edit icon image */
+  }
+  .BtnD {
+    background-image: url('./Images/delete.png'); /* Add the path to your delete icon image */
+  }
+.Text1_pro{
+    font-size: 40px;
+    color: rgb(11, 13, 134);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 40px;
+    padding-block-start: 0px;
+}
+.container_c1 {
+    display: flex;
+    align-items: center;
+  }
+.Btnlogout {
+    background-color: gray;
+    color: black;
+    font-weight: bolder;
+    inline-size: 8%; 
+    block-size: 35px;
+    border-radius: 80px;
+    margin-inline-start: 1300px; /* Adjust the margin for spacing */
+    margin-block-start: -31px;
+    cursor: pointer;
+  }
+  .Btnback {
+    background-color: gray;
+    color: black;
+    font-weight: bolder;
+    inline-size: 8%; 
+    block-size: 35px;
+    border-radius: 80px;
+    margin-inline-start: 1100px; /* Adjust the margin for spacing */
+    margin-block-start: -31px;
+    cursor: pointer;
+  }
+  .BtnAdd{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 10%; 
+    block-size: 35px;
+    border-radius: 10px;
+    margin-inline-start: 400px;
+    margin-block-start: -45px; 
+    cursor: pointer;
+}
+  .BtnOrder{
+    background-color: lightblue ;
+    color:black;
+    font-weight: bolder;
+    inline-size: 10%; 
+    block-size: 35px;
+    border-radius: 10px;
+    margin-inline-start: 650px;
+    margin-block-start: -45px; 
+    cursor: pointer;
+}
+.Logoo{
+    inline-size: 10%; 
+    block-size: 90px;
+    margin-inline-start: 0px;
+    margin-block-start: -10px; 
+    background-image: url('./Images/logo1.png');
+    background-position: center;
+    background-size: 115%;
+    border-radius: 50%;
+}
+.Box_searchp{
+    block-size: 25px;
+    background-color: white;
+    inline-size: 20%;
+    margin-inline-start: -50px;
+    margin-block-start: 10px;
+}

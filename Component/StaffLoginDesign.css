@@ -1,0 +1,123 @@
+.Classmain1{
+    inline-size: 100%; /* Use width directly */
+    block-size:730px;
+    margin-block-start: 0px;
+    background-image: url('./Images/b2.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+
+.t1 {
+    font-size: 25px;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-inline-start: 80px; /* Adjust the margin for the text */
+    margin-block-start: 30px;
+}
+
+.arrow {
+    background-image: url('./Images/arrow.png');
+    inline-size: 4%;
+    block-size: 60px;
+    background-size: 115%;
+    border-radius: 50px;
+    margin-left: -220px; /* Adjust the margin for the arrow */
+    margin-block-start: 10px;
+    background-position: center;
+    cursor: pointer;
+}
+
+.content1{
+    display: flex;
+    align-items: center;
+}
+.Class2ss {
+    background-color: white;
+    inline-size: 30%; /* Use width directly */
+    block-size: 400px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-start-start-radius: 20px; /* Adjust the border radius for the top-left corner */
+    border-end-start-radius: 20px; /* Adjust the border radius for the bottom-left corner */
+}
+.login{
+    font-size: 35px;
+    margin-block-start: -30px;
+}
+.senten{
+    margin-inline-start:0px;
+}
+.UN{
+    font-size: 15px;
+    margin-block-start: 50px;
+    margin-inline-start: -130px;
+}
+.PW{
+    font-size: 15px;
+    margin-block-start: 12px;
+    margin-inline-start: -150px;
+}
+
+.Box0_1 {
+    block-size: 25px;
+    inline-size: 150%;
+    margin-inline-start: -20px;
+    margin-block-start: 10px; /* Adjust the margin for better alignment */
+}
+
+.Btn0_1 {
+    background-color: black;
+    block-size: 25px;
+    inline-size: 54%;
+    margin-inline-start: 45px;
+    margin-block-start: 50px;
+    color: white;
+    text-align: center; /* Center the text horizontally */
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.checkbox-and-link{
+    display: flex;
+    align-items: center;
+    margin-inline-start: 0px;
+    margin-block-start: 5px;
+}
+
+.forgot-password{
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+    margin-inline-start: 100px;
+}
+.signup{
+    cursor: pointer;
+    text-decoration: underline;
+    color: blue;
+    margin-inline-start: 50px;
+    margin-block-start: 0px;
+}
+
+.class2sp {
+    background-image: url('./Images/bb1.jpg');
+    inline-size: 35%; /* Use width directly */
+    block-size: 400px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    margin-inline-start: -216px; /* Adjust the margin to change horizontal position */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-top-right-radius: 20px; /* Adjust the border radius for the top-left corner */
+    border-bottom-right-radius: 20px;
+    background-position: center;;
+}

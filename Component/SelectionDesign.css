@@ -1,0 +1,111 @@
+.Classmain_1{
+    inline-size: 100%; /* Use width directly */
+    block-size: 100px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+.content_11{
+    display: flex;
+    align-items: center;
+}
+.Class22_1 {
+    
+    inline-size: 100%; /* Use width directly */
+    block-size: 600px;
+    background-image: url('./Images/t_2.jpg'); 
+    background-position: center;
+    margin-block-start: 10px;
+    background-size: 80%;
+    margin-inline-end: 5px;
+    margin-inline-start: 0px;
+    border-radius: 0px;
+    margin-block-end: 100px;
+}
+.class2_2 {
+    background-color: white;
+    inline-size: 25%; /* Use width directly */
+    block-size: 620px;
+    margin-block-start: 10px; /* Top margin */
+    margin-inline-end: 5px; /* Right margin */
+    margin-block-end: 100px; /* Bottom margin */
+    margin-inline-start: 5px; /* Left margin */
+}
+
+.class2{
+    background-color: white;
+    inline-size: 100%; /* Use width directly */
+    block-size: 100px;
+    margin-block-start: 0px;   /*margin from top*/
+    margin-block-end: 0px;
+}
+.Logo{
+    inline-size: 10%; 
+    block-size: 100px;
+    margin-inline-start: 0px;
+    margin-block-start: 0px; 
+    background-image: url('./Images/logo1.png');
+    background-position: center;
+    background-size: 115%;
+    border-radius: 50%;
+}
+.Text2{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: rgb(11, 13, 134);
+    margin-inline-start: 180px;
+    margin-block-start: -85px;
+}
+.Btn_1{
+    background-color:rgba(8, 23, 105, 0.878);
+    inline-size: 18%; 
+    block-size: 35px;
+    border-radius: 10px;
+    margin-inline-start: 1180px;
+    margin-block-start: 0px; 
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    
+}
+.Btn_2{
+    background-color: rgba(157, 235, 235, 0.148);
+    inline-size: 45%; 
+    block-size: 20px;
+    border-radius: 10px;
+    margin-inline-start: 100px;
+    margin-block-start: 0px; 
+    cursor: pointer;
+}
+.con1{
+    display: flex;
+    align-items: center;
+    inline-size: 100%;
+    block-size: 50px;
+    margin-block-start: 50px;
+    border-radius: 15px;
+    background-color: black;
+}
+.profile{
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: underline;
+    margin-left: 10px; /* Adjust the margin for the text */
+    margin-block-start: 0px;
+    inline-size: 100%;
+    margin-inline-start: 0px;
+    color: white;
+}
+.r_arrow{
+    background-image: url('./Images/r_arrow.png');
+    inline-size: 30%;
+    block-size: 50px;
+    background-size: 110%;
+    margin-left: 120px; /* Adjust the margin for the arrow */
+    margin-block-start: 0px;
+    background-position: center;
+    cursor: pointer;
+    border-radius: 0px;
+
+}

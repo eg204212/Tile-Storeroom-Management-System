@@ -1,0 +1,169 @@
+.Classmain{
+    inline-size: 99%; /* Use width directly */
+    block-size:1000px;
+    margin-block-start: 0px;
+}
+.Class1 {
+    
+    inline-size: 100%; /* Use width directly */
+    block-size: 730px;
+    background-image: url('./Images/new bg 2.jpg'); 
+    background-position: center;
+    margin-block-start: 0px;
+    background-size: 100%;
+}
+.class2{
+    background-color: white;
+    inline-size: 100%; /* Use width directly */
+    block-size: 120px;
+    margin-block-start: 0px;   /*margin from top*/
+}
+.Class_pro{
+    inline-size: 100%; 
+    block-size:10px;
+    margin-block-start: 0px;
+}
+.Texts1{
+    font-size: 30px;
+    color: darkgoldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-inline-start: 150px;
+    padding-block-start: -10px; 
+}
+.contain_1{
+    display: flex;
+    align-items: center;
+}
+.Btn_1{
+    background-color:rgba(8, 23, 105, 0.878);
+    inline-size: 18%; 
+    block-size: 35px;
+    border-radius: 10px;
+    margin-inline-start: 1180px;
+    margin-block-start: 0px; 
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    
+}
+.Btn_2{
+    background-color: rgba(157, 235, 235, 0.148);
+    inline-size: 45%; 
+    block-size: 20px;
+    border-radius: 10px;
+    margin-inline-start: 100px;
+    margin-block-start: 0px; 
+    cursor: pointer;
+}
+.Logos{
+    inline-size: 10%; 
+    block-size: 100px;
+    margin-inline-start: 0px;
+    margin-block-start: -75px; 
+    background-image: url('./Images/logo1.png');
+    background-position: center;
+    background-size: 115%;
+    border-radius: 50%;
+}
+.Texts2{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: rgb(11, 13, 134);
+    margin-inline-start: 170px;
+    margin-block-start: -70px;
+}
+.Texts3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: black;
+    margin-inline-start: -40px;
+    margin-block-start: 0px;
+}
+.text4{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin-inline-start: 0px;
+    margin-block-start: 10px;
+}
+.text4_1{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-weight: 1000;
+    color: black;
+    margin-inline-start: 0px;
+    margin-block-start: 12px;
+}
+.text5{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    margin-inline-start: 0px;
+    margin-block-start: 40px;
+}
+.containerr {
+    display: flex;
+    align-items: center;
+}
+.Btn_luxery {
+    background-image: url('./Images/Luxury.jpg');
+    background-size: cover;
+    margin-inline-start: 20px;
+    margin-block-start: 10px;
+    inline-size: 250%;
+    block-size: 250px;
+    background-position: center;
+    cursor: pointer;
+}
+
+.Btn_wall {
+    background-image: url('./Images/wall.jpg');
+    margin-inline-start: 320px; 
+    margin-block-start: 10px;
+    background-size: cover;
+    inline-size: 70%;
+    block-size: 250px;
+    background-position: center;
+    cursor: pointer;
+}
+
+.Btn_wood {
+    background-image: url('./Images/wood.jpg');
+    margin-inline-start: 300px; 
+    margin-block-start: 10px;
+    background-size: cover;
+    inline-size: 60%;
+    block-size: 250px;
+    background-position: center;
+    cursor: pointer;
+}
+
+.Btn_small {
+    background-image: url('./Images/small.jpg');
+    margin-inline-start: 250px;
+    margin-block-start: 10px;
+    background-size: cover;
+    inline-size: 60%;
+    block-size: 250px;
+    background-position: center;
+    cursor: pointer;
+}
+.text6{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(250, 198, 10);
+    margin-inline-start: 0px;
+    margin-block-start: 200px;
+}
+.Text2w{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    margin-inline-start: 0px;
+    margin-block-start: 200px;
+}

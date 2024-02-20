@@ -1,0 +1,94 @@
+.Classmain1{
+    inline-size: 100%; /* Use width directly */
+    block-size:730px;
+    margin-block-start: 0px;
+    background-image: url('./Images/b2.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+.content_01{
+    display: flex;
+    align-items: center;
+}
+.Class2p_1{
+    background-color: white;
+    inline-size: 40%; /* Use width directly */
+    block-size: 450px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-top-left-radius: 20px; /* Adjust the border radius for the top-left corner */
+    border-bottom-left-radius: 20px; /* Adjust the border radius for the bottom-left corner */
+}
+.class2p_2 {
+    background-image: url('./Images/pw1.jpg');
+    background-size: 145%;
+    inline-size: 25%; /* Use width directly */
+    block-size: 450px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    margin-inline-start: -220px; /* Adjust the margin to change horizontal position */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-top-right-radius: 20px; /* Adjust the border radius for the top-left corner */
+    border-bottom-right-radius: 20px;
+    background-position: center;;
+}
+.Text3p {
+    font-size: 35px;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 0px;
+    margin-block-start: 0px; /* Adjust the value to move the text upward */
+}
+
+
+/* Adjusting text alignment */
+.Text_e_reg,
+.Text_n_reg,
+.Text_pw_reg,
+.Text_cp_reg {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: -20px; /* Left-align the text */
+    margin-block-start: 15px; /* Adjust as needed */
+    display: inline-block; /* Ensure inline alignment */
+    min-width: 150px; /* Set minimum width to ensure alignment */
+}
+
+/* Adjusting input box alignment */
+.Box1_e_r,
+.Box1_n_r,
+.Box1_pw_r,
+.Box1_cp_r {
+    block-size: 25px;
+    inline-size: 200px; /* Adjust the width as needed */
+    margin-inline-start: 100px; /* Align the input boxes */
+    margin-block-start: auto; /* Vertically center the input boxes */
+    margin-block-end: auto; /* Vertically center the input boxes */
+    display: inline-block; /* Ensure inline alignment */
+}
+
+
+/* Adjusting button alignment */
+.Btnp_r {
+    background-color: lightblue;
+    color: black;
+    font-weight: bolder;
+    inline-size: 100%;
+    block-size: 40px;
+    border-radius: 10px;
+    margin-inline-start: 50px; /* Align the button */
+    margin-block-start: 50px;
+    cursor: pointer;
+    display: inline-block; /* Ensure inline alignment */
+}

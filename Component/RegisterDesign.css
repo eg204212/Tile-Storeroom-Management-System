@@ -1,0 +1,70 @@
+.Classmain1{
+    inline-size: 100%; /* Use width directly */
+    block-size:730px;
+    margin-block-start: 0px;
+    background-image: url('./Images/b2.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+.Text1c{
+    font-size: 50px;
+    color: darkgoldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-inline-start: 180px;
+    padding-block-start: 20px; 
+}
+.Class2_1{
+    background-color: white;
+    inline-size: 40%; /* Use width directly */
+    block-size: 600px;
+    border-radius: 30px;
+    margin: 50px auto;   /*margin from top*/
+    margin-block-start: -525px; /* Add margin from the top */
+    margin-inline-start: 600px;
+}
+.register {
+    background-image: url('./Images/r1.png');
+    inline-size: 25%; /* Use width directly */
+    block-size: 432px; /* Reduce the height to a reasonable value */
+    margin-inline-start: auto; /* Center the component horizontally */
+    margin-inline-end: auto; /* Center the component horizontally */
+    margin-block-start: 100px; /* Add margin from the top */
+    margin-inline-start: 80px; /* Adjust the margin to change horizontal position */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-position: center;;
+}
+.Text3c{
+    font-size: 35px;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 135px;
+    padding-block-start: 50px;
+}
+.Btn_regg1{
+    background-color:black ;
+    inline-size: 25%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 220px;
+    margin-block-start: 60px; 
+    color: white;
+}
+.Box3r{
+    block-size: 25px;
+    inline-size: 50%;
+    margin-inline-start: 90px;
+    margin-block-start: 30px;
+}
+.Btn_regp{
+    background-color:lightblue ;
+    inline-size: 50%; 
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 100px;
+    margin-block-start: 20px; 
+    cursor: pointer;
+}

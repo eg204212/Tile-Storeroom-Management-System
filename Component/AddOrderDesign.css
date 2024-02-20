@@ -1,0 +1,78 @@
+.Classa_1 {
+    inline-size: 100%;
+    block-size: 730px;
+    background-image: url('./Images/b2.jpg'); 
+    background-position: center;
+    background-size: 100%;
+}
+
+.content_001 {
+    display: flex;
+    align-items: center;
+}
+
+.Class2po_1 {
+    background-color: white;
+    inline-size: 40%;
+    block-size: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-start: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.class2po_2 {
+    background-image: url('./Images/tilestore1.jpg');
+    background-size: 150%;
+    inline-size: 30%;
+    block-size: auto;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    margin-block-start: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-position: center;
+}
+
+.Text3ao {
+    color: blue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-inline-start: 0px;
+    padding-block-start: 100px;
+}
+
+.Btn_rego {
+    background-color: lightblue;
+    inline-size: auto; /* Adjusted width */
+    block-size: 30px;
+    border-radius: 10px;
+    margin-inline-start: 60px;
+    margin-block-start: 20px;
+    cursor: pointer;
+}
+
+.Text_rego_1, .Text_rego_2, .Text_rego_3, .Text_rego_4, .Text_rego_5, .Text_rego_6 {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-block-start: 10px;
+}
+
+.Box1_o, .Box2_o, .Box3_o, .Box4_o, .Box5_o, .Box6_o {
+    block-size: 25px;
+    inline-size: 100%; /* Adjusted width */
+    margin-inline-end: auto;
+    margin-inline-start: auto;
+    margin-block-start: 15px; /* Reduced margin */
+}
